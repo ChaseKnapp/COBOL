@@ -1,0 +1,2 @@
+G:\COBOL\Program1ChaseKnapp\bin\x86\Debug\Program1ChaseKnapp.exe
+G:\COBOL\Program1ChaseKnapp\obj\x86\Debug\Program1ChaseKnapp.exe
