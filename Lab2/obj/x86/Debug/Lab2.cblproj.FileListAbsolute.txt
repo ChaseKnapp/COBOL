@@ -1,0 +1,2 @@
+F:\COBOL\Lab2\bin\x86\Debug\Lab2.exe
+F:\COBOL\Lab2\obj\x86\Debug\Lab2.exe
