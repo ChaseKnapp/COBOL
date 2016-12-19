@@ -1,0 +1,2 @@
+F:\COBOL\Lab6\Lab6\bin\x86\Debug\Lab6.exe
+F:\COBOL\Lab6\Lab6\obj\x86\Debug\Lab6.exe
